@@ -73,8 +73,11 @@ upframe/
 ```
 
 📏 Image Guidelines
+
 Max size: 15MB
+
 Max dimensions: 4096×4096 pixels
+
 Accepted formats: PNG, JPG, JPEG, WEBP, GIF, BMP, TIFF
 
 ## Environment Variables
