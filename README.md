@@ -3,11 +3,12 @@
 A modern web application to enhance images using an AI-powered API. Users can upload images, preview the original and enhanced versions, and download the enhanced result. The app enforces strict validation for file type, size, and dimensions.
 
 ✨ Core Features 
+
 Easy Uploads: Supports PNG, JPG, JPEG, WEBP, GIF, BMP, and TIFF formats
 Smart Validation: Ensures files are within 15MB and 4096×4096 px
 Live Preview: View original and enhanced images next to each other
-One-Click Download: Save your improved image instantly
-Clean, Responsive Design: Built with Tailwind CSS for modern UI styling
+One-Click Download: Save your improved image instantlyClean, 
+Responsive Design: Built with Tailwind CSS for modern UI styling
 Smooth Processing: Shows a loading indicator while enhancement is in progress
 
 🚀 Getting Started
